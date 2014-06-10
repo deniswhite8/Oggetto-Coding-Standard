@@ -61,4 +61,9 @@
     <rule ref="Oggetto.Functions.FunctionWhiteSpace"/>
     <rule ref="Oggetto.Arrays.ArrayNegativeIndex"/>
     <rule ref="Oggetto.File.OnlyEnglish"/>
+
+    <rule ref="Oggetto.Strings.VariableInString"/>
+    <rule ref="Oggetto.Class.PublicFields"/>
+    <rule ref="Oggetto.Functions.FunctionArgumentsWhiteSpace"/>
+
 </ruleset>
